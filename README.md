@@ -73,7 +73,7 @@ Entirely different server configurations can be created by modifying the files i
     * [http://local.wordpress-trunk.dev/](http://local.wordpress-trunk.dev/) for WordPress trunk
     * [http://src.wordpress-develop.dev/](http://src.wordpress-develop.dev/) for trunk WordPress development files
     * [http://build.wordpress-develop.dev/](http://build.wordpress-develop.dev/) for the version of those development files built with Grunt
-    * [http://vvv.dev/](http://vvv.dev/) for a default dashboard containing several useful tools
+    * [http://local.dashboard.dev/](http://local.dashboard.dev/) for a default dashboard containing several useful tools
 
 Fancy, yeah?
 
