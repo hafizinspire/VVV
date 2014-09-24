@@ -57,4 +57,4 @@
 !/www/default/index.php
 !/www/default/style.css
 !/www/default/dashboard-custom.php
-!/www/dashboard
+!/www/dashboard/*
